@@ -1,0 +1,16 @@
+D:\DotNet CLI\Abstraction\bin\Debug\net5.0\Abstraction.exe
+D:\DotNet CLI\Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+D:\DotNet CLI\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+D:\DotNet CLI\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+D:\DotNet CLI\Abstraction\bin\Debug\net5.0\Abstraction.dll
+D:\DotNet CLI\Abstraction\bin\Debug\net5.0\ref\Abstraction.dll
+D:\DotNet CLI\Abstraction\bin\Debug\net5.0\Abstraction.pdb
+D:\DotNet CLI\Abstraction\obj\Debug\net5.0\Abstraction.csproj.AssemblyReference.cache
+D:\DotNet CLI\Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet CLI\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+D:\DotNet CLI\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+D:\DotNet CLI\Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\DotNet CLI\Abstraction\obj\Debug\net5.0\Abstraction.dll
+D:\DotNet CLI\Abstraction\obj\Debug\net5.0\ref\Abstraction.dll
+D:\DotNet CLI\Abstraction\obj\Debug\net5.0\Abstraction.pdb
+D:\DotNet CLI\Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache
